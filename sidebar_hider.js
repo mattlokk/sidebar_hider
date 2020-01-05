@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Defaults all subreddits to non-custom style and auto-hides the sidebar.
-// @author       You
+// @author       Matthew Anderson
 // @match        https://www.reddit.com/*
 // @grant        none
 // ==/UserScript==
